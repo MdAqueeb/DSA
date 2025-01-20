@@ -1,0 +1,10 @@
+Basic operations :
+    - Insert 
+    - Delete 
+    - Search 
+    - Traversal : pre,post,in,level 
+    - Find Max or Min :
+    - Height of tree 
+    - count the no.of Nodes :
+    - Balance Tree : Only ensures
+    - level of Node 

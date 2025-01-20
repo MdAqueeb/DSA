@@ -1,0 +1,47 @@
+
+Time Complexity & Space Complexity:
+    Basic Operations :
+        - Concatenation : Add two or more Strings 
+            Time            : O(n+m)
+            Space           : O(n+m) -> For Createing new String 
+            build-in method : True (.concat,.join,collection.joining)
+        - Length : Find the Size of String
+            Time            : O(1)
+            Space           : O(1)
+            build-in method : True (.length())
+        - SubString : Accessing some portion of elements in String 
+            Time            : O(1) by using build-in method
+            Space           : O(1)
+            build-in method : True (.SubString)
+        - Formating : 
+        - Case Conversions : 
+            Time            : O(n)
+            Space           : O(n)
+            build-in method : True (lowercase,uppercase,title)
+        - Find :
+            Time            : O(n)
+            Space           : O(n)
+            build-in method : True (find)
+        - Replace :
+            Time            : O(n)
+            Space           : O(n)
+            build-in method : True (replace)
+        - Split :
+            Time            : O(n)
+            Space           : O(n)
+            build-in method : True (Split)
+        - Strip :
+            Time            : O(n)
+            Space           : O(1)
+            build-in method : True (Strip)
+        - Startswith / Endswith :
+            Time            : O(n)
+            Space           : O(1)
+            build-in method : True (Strip)
+        - comparision : 
+        - check for substring :
+        - reverse string :
+        - Escape Characters :
+            Time            : O(n)
+            Space           : O(n) -> We are create string so
+            build-in method : True (Strip)

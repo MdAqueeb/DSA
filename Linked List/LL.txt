@@ -1,0 +1,10 @@
+Basic Operations :
+    - Create a linked list 
+    - Traversal the linked list 
+    - Insert Node : At Begining,at End,at specific position 
+    - Delete Node : by key
+    - modify
+    - Search for Node : 
+    - Reverse linked list 
+    - Find Length 
+    - check Empty 

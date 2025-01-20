@@ -1,0 +1,13 @@
+
+Basic Operations For Static & Dynamic Arrays: 
+    - Adding Elemetns : At end,At Specific index O(n) worst : space O(n) or O(1)
+    - Accesing the element O(1)
+    - Update Elemetns : At particular index O(1)
+    - Delete Elements : By value or By index O(n) O(1)
+    - Traversing : O(n) O(1)
+    - Search Elements O(n) O(1)
+    - Sorting Elemetns O(n^2) O(1)
+    - Slicing O(n) O(n)
+    - Concatenating Arrays O(n) O(n)
+    - Reversing O(n) O(1)
+

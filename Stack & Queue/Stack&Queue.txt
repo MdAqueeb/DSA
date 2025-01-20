@@ -1,0 +1,15 @@
+Basic Operation (Stack) :
+    - push : add at top 
+    - pop  : at top
+    - peek/top : return top 
+    - is empty 
+    - size 
+    - Search
+
+Basic Operation (Queue) :
+    - Enqueue 
+    - Dequeue 
+    - peek/top 
+    - is empty 
+    - size 
+    - Search

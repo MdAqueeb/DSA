@@ -1,0 +1,7 @@
+Basic Operations :
+    - Insert 
+    - Search 
+    - Delete 
+    - Prefix search 
+    - AutoCompelete 
+    - Count of words 

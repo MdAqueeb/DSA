@@ -1,0 +1,9 @@
+Basic Operation(Tables,set and Maps) :
+    - create 
+    - insert : key exits then update value 
+    - Search 
+    - Delete 
+    - Update 
+    - contains key
+    - contains value
+    - resize 
