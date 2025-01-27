@@ -1,13 +1,20 @@
+Arrays : It is Linear Data Structure.
+         It stores same data type elements 
+         It have fixed size 
+         The memory locations store data in continues manner 
+         It can effectively in Accesing by index O(1)
+         
+Collection Framework : ArrayList
 
-Basic Operations For Static & Dynamic Arrays: 
-    - Adding Elemetns : At end,At Specific index O(n) worst : space O(n) or O(1)
-    - Accesing the element O(1)
-    - Update Elemetns : At particular index O(1)
-    - Delete Elements : By value or By index O(n) O(1)
-    - Traversing : O(n) O(1)
-    - Search Elements O(n) O(1)
-    - Sorting Elemetns O(n^2) O(1)
-    - Slicing O(n) O(n)
-    - Concatenating Arrays O(n) O(n)
-    - Reversing O(n) O(1)
+Basic Operations for Arrays 
 
+Access by Index	O(1)	Direct access to an element by index.
+Insertion	O(N)	Inserting an element (at the beginning or middle).
+Deletion	O(N)	Deleting an element (at the beginning or middle).
+Searching	O(N)	Searching for an element (linear search).
+Update Element	O(1)	Updating the value of an element at a given index.
+Resizing (Dynamic Arrays)	O(N)	Reallocating and copying elements when the array grows.
+Slicing	O(k)	Extracting a portion of the array (sub-array).
+Copying	O(N)	Creating a shallow or deep copy of the array.
+Concatenating	O(N + M)	Joining two or more arrays into one larger array.
+Traversing	O(N)	Iterating over all elements of the array.

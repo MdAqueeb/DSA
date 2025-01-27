@@ -1,4 +1,4 @@
-package Adjency_Matrix;
+package DSA.Graph.Adjency_Matrix;
 
 public class Undir_Unwe {
     static int[][] graph = new int[0][0];
